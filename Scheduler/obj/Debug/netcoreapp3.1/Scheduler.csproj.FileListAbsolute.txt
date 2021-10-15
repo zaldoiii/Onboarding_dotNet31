@@ -1,0 +1,13 @@
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.deps.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.runtimeconfig.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.runtimeconfig.dev.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.dll
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.pdb
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfoInputs.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfo.cs
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.csproj.CoreCompileInputs.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.dll
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.pdb
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.genruntimeconfig.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.csproj.AssemblyReference.cache
