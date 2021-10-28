@@ -1,0 +1,30 @@
+[
+  {
+    "teamId": 3,
+    "countryId": 3,
+    "teamName": "Manchester United",
+    "teamGroup": "H",
+    "pointsScored": 6
+  },
+  {
+    "teamId": 4,
+    "countryId": 3,
+    "teamName": "Manchester City",
+    "teamGroup": "G",
+    "pointsScored": 1
+  },
+  {
+    "teamId": 5,
+    "countryId": 6,
+    "teamName": "Real Madrid",
+    "teamGroup": "A",
+    "pointsScored": 12
+  },
+  {
+    "teamId": 6,
+    "countryId": 10,
+    "teamName": "Arema Malang",
+    "teamGroup": "B",
+    "pointsScored": 1
+  }
+]

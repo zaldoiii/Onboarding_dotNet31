@@ -1,0 +1,56 @@
+[
+  {
+    "countryId": 3,
+    "countryName": "United Kingdom",
+    "countryAbbrev": "UK",
+    "population": 67886011
+  },
+  {
+    "countryId": 4,
+    "countryName": "France",
+    "countryAbbrev": "FRA",
+    "population": 65273511
+  },
+  {
+    "countryId": 5,
+    "countryName": "Italy",
+    "countryAbbrev": "ITA",
+    "population": 60461826
+  },
+  {
+    "countryId": 6,
+    "countryName": "Spain",
+    "countryAbbrev": "SPA",
+    "population": 46754778
+  },
+  {
+    "countryId": 7,
+    "countryName": "Germany",
+    "countryAbbrev": "GER",
+    "population": 83783942
+  },
+  {
+    "countryId": 8,
+    "countryName": "Portugal",
+    "countryAbbrev": "PRT",
+    "population": 10196709
+  },
+  {
+    "countryId": 9,
+    "countryName": "Belgium",
+    "countryAbbrev": "BEL",
+    "population": 11589623
+  },
+  {
+    "countryId": 10,
+    "countryName": "Indonesia",
+    "countryAbbrev": "IDN",
+    "population": 273523615
+  },
+  {
+    "countryId": 11,
+    "countryName": "Malaysia",
+    "countryAbbrev": "MYS",
+    "population": 32365999
+  }
+]

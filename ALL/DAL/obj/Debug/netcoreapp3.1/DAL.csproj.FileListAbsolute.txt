@@ -1,0 +1,13 @@
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+D:\Pekerjaan Profesional\Proyek Ecomindo\Onboarding-0\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
