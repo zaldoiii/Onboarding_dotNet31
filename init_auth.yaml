@@ -1,0 +1,91 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+#  annotations:
+#    deployment.kubernetes.io/revision: "1"
+#  creationTimestamp: "2021-10-29T06:21:08Z"
+#  generation: 1
+  labels:
+    app: zaldi-auth
+  name: zaldi-auth
+  namespace: zaldii
+#  resourceVersion: "6691945"
+#  uid: d79cb5e1-b1ef-4964-aaef-aafc62d0de7a
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 1
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: zaldi-auth
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      #ccreationTimestamp: nu
+      labels:
+        app: zaldi-auth
+    spec:
+      containers:
+      - image: acronboarding.azurecr.io/zaldi_auth_fix
+        imagePullPolicy: Always
+        env:
+          - name: ConnectionStrings__DefaultConnection
+            valueFrom:
+              secretKeyRef:
+                name: sql-server-zaldi
+                key: auth-db
+          - name: AuthorizationServer__Address
+            valueFrom:
+              configMapKeyRef:
+                name: config-zaldi
+                key: AuthorizationServerAddress
+        name: zaldi-auth
+        ports:
+        - containerPort: 80
+          protocol: TCP
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+#status:
+#  conditions:
+#  - lastTransitionTime: "2021-10-29T06:21:08Z"
+#    lastUpdateTime: "2021-10-29T06:21:24Z"
+#    message: ReplicaSet "zaldi-auth-7669d484d8" has successfully progressed.
+#    reason: NewReplicaSetAvailable
+#    status: "True"
+#    type: Progressing
+#  - lastTransitionTime: "2021-10-29T06:22:48Z"
+#    lastUpdateTime: "2021-10-29T06:22:48Z"
+#    message: Deployment does not have minimum availability.
+#    reason: MinimumReplicasUnavailable
+#    status: "False"
+#    type: Available
+#  observedGeneration: 1
+#  replicas: 1
+#  unavailableReplicas: 1
+#  updatedReplicas: 1
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: zaldi-auth
+  name: zaldi-auth
+spec:
+  ports:
+  - name: zaldi-port-auth
+    port: 80
+  type: LoadBalancer
+  selector:
+    app: zaldi-auth
+status:
+  loadBalancer: {}

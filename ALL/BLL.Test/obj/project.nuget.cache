@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqm+8mjpgvKFjPePmWKUL5Fee7afcd6AXFs3s1xnGXCBi7NYoPOPFZSf8Ju16zLnLD5P2mg0Wh+XalOvX+HmRA==",
+  "dgSpecHash": "AfJNCbThkzcj0NS/gEkFG7EaG03KgQ/BYqBWI3NR9Fb/WWcgFtMsm0q0IyveAgJmheKptHNk8hHYcNYHuCPsJQ==",
   "success": true,
-  "projectFilePath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL.Test\\BLL.Test.csproj",
+  "projectFilePath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL.Test\\BLL.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zaldi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Zaldi\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",

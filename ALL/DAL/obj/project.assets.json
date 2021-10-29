@@ -10035,11 +10035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj",
+      "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj",
+      "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-      "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\obj\\",
+      "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

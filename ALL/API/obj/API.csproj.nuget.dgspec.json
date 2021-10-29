@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\API.csproj": {}
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\API.csproj": {
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\API.csproj",
+        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\API.csproj",
+        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\obj\\",
+        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,17 +32,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj"
               },
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj"
               },
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\External.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\External.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\External.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\External.csproj"
               },
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj": {
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj",
+        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj",
+        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\obj\\",
+        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,8 +208,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj"
               }
             }
           }
@@ -332,14 +332,14 @@
         }
       }
     },
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj": {
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj",
+        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\obj\\",
+        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -480,14 +480,14 @@
         }
       }
     },
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\External.csproj": {
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\External.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\External.csproj",
+        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\External.csproj",
         "projectName": "External",
-        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\External.csproj",
+        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\External.csproj",
         "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\External\\obj\\",
+        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\External\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -508,14 +508,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj"
               },
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\DAL\\DAL.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\DAL\\DAL.csproj"
               },
-              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj": {
-                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj"
+              "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj": {
+                "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj"
               }
             }
           }
@@ -598,14 +598,14 @@
         }
       }
     },
-    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj": {
+    "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj",
+        "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj",
         "projectName": "Scheduler",
-        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\Scheduler.csproj",
+        "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\Scheduler.csproj",
         "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\Scheduler\\obj\\",
+        "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\Scheduler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

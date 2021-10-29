@@ -10909,11 +10909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL.Test\\BLL.Test.csproj",
+      "projectUniqueName": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL.Test\\BLL.Test.csproj",
       "projectName": "BLL.Test",
-      "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL.Test\\BLL.Test.csproj",
+      "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL.Test\\BLL.Test.csproj",
       "packagesPath": "C:\\Users\\Zaldi\\.nuget\\packages\\",
-      "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL.Test\\obj\\",
+      "outputPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10934,8 +10934,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj": {
-              "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\BLL\\BLL.csproj"
+            "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\BLL\\BLL.csproj"
             }
           }
         }

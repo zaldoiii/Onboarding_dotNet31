@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Iz4NdSxPZn++sIP5Od4mfuUn22DkQzQ7S8SBT2kplnBIvX0ZRz1b7gqNKlvjxkwq0zv/KjWCXv3vilSE1rMlg==",
+  "dgSpecHash": "kic4l0176Uh3Px8kXDOEDZ/zSsO7+sRohSYI9m7m2mMw+1l6OtJVOCLLvHQ4QDW353JwMyMdpIM7P1dt9u3dCw==",
   "success": true,
-  "projectFilePath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\Onboarding-0\\API\\API.csproj",
+  "projectFilePath": "D:\\Pekerjaan Profesional\\Proyek Ecomindo\\GIT_REPO\\Onboarding_dotNet31\\ALL\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zaldi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Zaldi\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
